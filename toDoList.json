@@ -6,8 +6,28 @@
       "isDone": false
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "interchange Nasa secrets with Marc",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Create a function to randomize seats at IsdiCoders",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "name": "Look at the sky",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Meditate",
+      "isDone": true
+    },
+    {
+      "id": 6,
+      "name": "Catch up with StarTalkRadio",
       "isDone": true
     }
   ]
